@@ -8,3 +8,5 @@ for i in range (1,15):
     f.write(web_url.json()["name"])
     f.write("\n")
     f.close()
+
+print("Привет")
